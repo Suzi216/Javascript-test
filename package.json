@@ -1,0 +1,23 @@
+{
+  "name": "javascript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suzi216/Javascript-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suzi216/Javascript-test/issues"
+  },
+  "homepage": "https://github.com/Suzi216/Javascript-test#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
